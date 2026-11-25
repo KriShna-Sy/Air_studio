@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AirDraw Studio 🎨🖐️
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12-blue.svg)](https://www.python.org/)
@@ -6,10 +5,18 @@
 [![MediaPipe Tasks](https://img.shields.io/badge/Vision-MediaPipe%20Tasks-orange.svg)](https://developers.google.com/mediapipe)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-red.svg)](https://opencv.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Tests: 25 Passing](https://img.shields.io/badge/Tests-25%20Passed-brightgreen.svg)]()
+[![tests](https://github.com/KriShna-Sy/Air_studio/actions/workflows/tests.yml/badge.svg)](https://github.com/KriShna-Sy/Air_studio/actions/workflows/tests.yml)
 
 > **Gesture-Controlled Real-Time Drawing Workspace and Transparent Desktop Overlay for Linux/Ubuntu.**  
 > Completely touchless and mouse-free. Draw in the air with your index finger, navigate floating options by hand, and trigger selections with a pinch or dwell.
+
+---
+
+## 📸 Screenshots
+
+| Floating Glass Workspace | Desktop Overlay |
+| :---: | :---: |
+| ![Workspace](tests/gui_workspace_screenshot.png) | ![Overlay](tests/gui_overlay_screenshot.png) |
 
 ---
 
@@ -137,8 +144,8 @@ sudo apt install -y python3-venv libgl1-mesa-glx libxcb-xinerama0 v4l-utils
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/AirDraw-Studio.git
-cd AirDraw-Studio
+git clone https://github.com/KriShna-Sy/Air_studio.git
+cd Air_studio
 ```
 
 ### 3. Set Up Virtual Environment
@@ -293,7 +300,4 @@ This project is open-source software licensed under the **[MIT License](LICENSE)
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/AirDraw-Studio/issues) or read [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
-=======
-# Air_studio
->>>>>>> origin/main
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/KriShna-Sy/Air_studio/issues) or read [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
