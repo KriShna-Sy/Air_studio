@@ -8,8 +8,8 @@ Thank you for your interest in contributing to **AirDraw Studio**! We welcome co
 
 1. **Fork and clone the repository**:
    ```bash
-   git clone https://github.com/your-username/AirDraw-Studio.git
-   cd AirDraw-Studio
+   git clone https://github.com/KriShna-Sy/Air_studio.git
+   cd Air_studio
    ```
 
 2. **Create a Python virtual environment** (Python 3.10 – 3.12 recommended):
